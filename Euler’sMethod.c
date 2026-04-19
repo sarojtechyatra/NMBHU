@@ -32,3 +32,7 @@ int main()
 
     return 0;
 }
+
+
+// Euler’s method approximates solutions of differential equations using the formula 
+// y_{n+1} = y_n + h*f(x_n, y_n) by repeatedly updating values step by step from initial conditions.

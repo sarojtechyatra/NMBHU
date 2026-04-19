@@ -46,6 +46,9 @@ int main()
         }
     }
 
+    //  If you want to solve using epsolon value instead of number
+    //  of iterations, you can use the following code:   from line 26
+
     // // Input epsilon (tolerance)
     // printf("Enter epsilon (tolerance): ");
     // scanf("%f", &epsilon);
